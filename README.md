@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CSParadiso
 - 👀 I’m interested in Literature, Sound and Software that could help people anyhow.
-- 🌱 I’m currently studying a Degree in Software in Ushuaia, Tierra del Fuego, Argentina and working in the Tierra del Fuego National Park.
+- 🌱 I’m currently studying a Degree in Software in Ushuaia, Tierra del Fuego e Islas del Atlántico Sur, Argentina.
 - 💞️ I’m looking to collaborate on some OO project related to sound or books.
 - 📫 How to reach me: cayetanosimonparadiso@protonmail.com
 
