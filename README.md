@@ -1,9 +1,28 @@
 <h2>Hi 👋 , I’m </h2>
 <h1>Cayetano Simón Paradiso (@CSParadiso)</h1>
-- 👀 I’m interested in Literature, Sound and Software that could help people anyhow.
-- 🌱 I’m currently studying a Degree in Software in Ushuaia, Tierra del Fuego e Islas del Atlántico Sur, Argentina.
-- 💞️ I’m looking to collaborate on some OO project related to sound or books.
-- 📫 How to reach me: cayetanosimonparadiso@protonmail.com
+<ul>
+  <li>👀 I’m interested in Literature, Sound and Software that could help people anyhow.</li>
+  <li>🌱 I’m currently studying a Degree in Software in Ushuaia, Tierra del Fuego e Islas del Atlántico Sur, Argentina.</li>
+  <li>💞️ I’m looking to collaborate on some OO project related to sound, books. Also, web development (backend preferred).</li>
+  <li>📫 How to reach me: <a href="mailto:cayetanosimonparadiso@protonmail.com" target="_blank">cayetanosimonparadiso@protonmail.com</a>, 
+    <a href="https://www.linkedin.com/in/cayetano-sim%C3%B3n-paradiso-99588018a/" target="_blank">LinkedIn</a>.</li>
+</ul> 
+
+<h2>I've worked with:</h2>
+<ul>
+  <li><a href="https://github.com/CSParadiso/gestorEstablecimientoEducativo.git">Java, Swing, Eclipse</a></li>
+  <li><a href="https://github.com/CSParadiso/peliCurApp.git">Python, Django, PostgreSQL, HTML, CSS, JavaScript</a></li>
+</ul>
+
+<h2>Currently learning/reinforcing:</h2>
+<ul>
+  <li>JavaScript</li>
+  <li>TypeScript</li>
+  <li>Node.js</li>
+</ul>
+
+<h2>Formation:</h2>
+  <li>3/5 years of Bachelors Degree in Software</li>
 
 <!---
 CSParadiso/CSParadiso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
