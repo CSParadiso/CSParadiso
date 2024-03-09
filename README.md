@@ -20,15 +20,11 @@
 <ul>
   <li>Java</li>
   <li>Quarkus</li>
+  <li>Maven</li>
+  <li>Activiti</li>
+  <li>Docker</li>
 </ul>
 </h2>
-
-<h2>Currently learning/reinforcing:</h2>
-<ul>
-  <li>JavaScript</li>
-  <li>TypeScript</li>
-  <li>Node.js</li>
-</ul>
 
 <h2>Formation:</h2>
   <li>3/5 years of Bachelors Degree in Software</li>
