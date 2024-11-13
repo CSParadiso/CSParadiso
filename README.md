@@ -21,13 +21,12 @@
   <li>Java</li>
   <li>Quarkus</li>
   <li>Maven</li>
-  <li>Activiti</li>
   <li>Docker</li>
 </ul>
 </h2>
 
 <h2>Formation:</h2>
-  <li>3/5 years of Bachelors Degree in Software</li>
+  <li>4/5 years of Bachelors Degree in Software</li>
 
 <!---
 CSParadiso/CSParadiso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
